@@ -22,4 +22,8 @@
     <style name="Theme.Flutter_add_to_android.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="Theme.Flutter_add_to_android.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="MyTheme">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
 </resources>
